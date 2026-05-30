@@ -23,4 +23,4 @@ I am a newly graduated System Development student currently looking for jobs and
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/tobias-axelsson/) | [Email](mailto:tobias.axelsson.21@gmail.com)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/tobias-axelsson/)
